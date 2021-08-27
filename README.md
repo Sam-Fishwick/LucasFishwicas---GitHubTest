@@ -11,4 +11,4 @@ nano edit on new branch 'new'. testing remote working.
 
 pull request required to update local repository (after edits on GitHub)
 
-push new branch to remote.
+[SUCCESS] push new branch to remote.
