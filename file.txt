@@ -1,2 +1,4 @@
 Created on Command Line ("touch file.txt");
 Edited on GitHub;
+Pulled locally on Command Line;
+Edited on nano;
