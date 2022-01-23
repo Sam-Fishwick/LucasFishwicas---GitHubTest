@@ -4,3 +4,6 @@ Pulled locally on Command Line;
 quick edit to keep me feeling like a coder;
 and another;
 Edit on GitHub for pull testing
+Successfully pulled, but was hoping for a way of checking if updates had
+been made remotely (checked with git status but it stated that nothing
+had changed)
