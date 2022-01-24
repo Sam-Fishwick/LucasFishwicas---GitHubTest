@@ -1,7 +1,7 @@
 Learning to use terminal in vim
 
 CTRL_W+w to switch between windows (vim and terminal [in vim]
-+++ Doesnt seem to work now -- checking :help window" 
++++ Doesnt seem to work now -- checking using ":help window" 
 +++ Just stopped working .. restarting computer worked
 
 Learning ":b <tab>" (with set wildmenu on) - Navigate between buffers (opened files)
