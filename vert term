@@ -1,3 +1,22 @@
 Learning to use terminal in vim
 
 CTRL_W+w to switch between windows (vim and terminal [in vim]
++++ Doesnt seem to work now -- checking :help window" 
++++ Just stopped working .. restarting computer worked
+
+Learning ":b <tab>" (with set wildmenu on) - Navigate between buffers (opened files)
++++ ":e file.txt" to open new buffer to edit, then ":b vert term" to return to this buffer
++++ Should be able to :split vim and open buffer to work with 2 files
++++ ":split <file name> will open <file name> in split window (previously I simply
+":split" and changed the buffer with ":b <file name>
+
+Window size can be changed with ":resize <+/-> <int>" 
++++ int value represents lines added (+) or removed (-)
+
+Relative window size can be controlled with ctrl-w
++++ ctrl-w _ (| for vertical) maxes out the current window size
++++ ctrl-w = splits windows evenly
++++ ctrl-w R will swap window positions
+
+
+

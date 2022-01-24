@@ -7,3 +7,18 @@ Edit on GitHub for pull testing
 Successfully pulled, but was hoping for a way of checking if updates had
 been made remotely (checked with git status but it stated that nothing
 had changed)
+
+Learning vim
++++ integrating terminal and learning about buffers
++++ switching between buffers (open files) with ":b"
++++ ":split <file name> will open <file name> in split window (previously I simply
+":split" and changed the buffer with ":b <file name>)
+
+Window size can be changed with ":resize <+/-> <int>" 
++++ int value represents lines added (+) or removed (-)
+
+Relative window size can be controlled with ctrl-w
++++ ctrl-w _ (| for vertical) maxes out the current window size
++++ ctrl-w = splits windows evenly
++++ ctrl-w R will swap window positions
+
