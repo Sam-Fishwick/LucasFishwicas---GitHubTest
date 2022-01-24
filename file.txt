@@ -9,7 +9,12 @@ been made remotely (checked with git status but it stated that nothing
 had changed)
 
 Learning vim
-+++ integrating terminal and learning about buffers
+
+Vim Movements
++++ w -> word, b <- word
++++ f<char> = jump to that char, t<char> = jump before that char
+
+Integrating terminal and learning about buffers
 +++ switching between buffers (open files) with ":b"
 +++ ":split <file name> will open <file name> in split window (previously I simply
 ":split" and changed the buffer with ":b <file name>)
