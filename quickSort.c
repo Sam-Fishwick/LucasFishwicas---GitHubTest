@@ -40,3 +40,12 @@ int main()
     return 0;
 
 }
+
+
+// just practising how to type on my new split keyboard
+//
+// this is getting easier and i'm beginning to enjoy my layout and feel
+// comfortable with it 
+//
+// getting used to the thumb cluster 
+// i think its nearly optimised
