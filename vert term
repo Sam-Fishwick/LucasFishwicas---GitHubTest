@@ -17,7 +17,3 @@ Relative window size can be controlled with ctrl-w
 +++ ctrl-w _ (| for vertical) maxes out the current window size
 +++ ctrl-w = splits windows evenly
 +++ ctrl-w R will swap window positions
-
-
-
-Edited by Luke on Sams Laptop
